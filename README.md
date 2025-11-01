@@ -15,6 +15,8 @@ The ESP32 acts as the main controller for a custom board built around several ha
 
 When the trigger is pressed, each LED turns on in sequence. The light sensor measures the reflected intensity, which is digitized and passed to an onboard neural network classifier. The classifier determines the plastic type, and the result is displayed locally on the screen and sent via BLE to a connected mobile app.
 
+The prototype demonstrated strong real-world potential leading the client company to later invest over $10,000 in commercial-grade plastic scanners for deployment across multiple facilities.
+
 ---
 
 ### Tech Stack
@@ -36,3 +38,4 @@ This repository includes only the ESP32 firmware and components written by me.
 Other parts of the project (e.g., mobile or desktop apps) are not included here.
 
 ---
+
