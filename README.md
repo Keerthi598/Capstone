@@ -39,7 +39,8 @@ The prototype demonstrated strong real-world potential leading the client compan
 
 This repository includes only the ESP32 firmware and components written by me.  
 Other parts of the project (e.g., mobile or desktop apps) are not included here.
-
+You can check out the official capstone website over [/capstone.cse.msu.edu/2024-08/projects/gm-ris/](https://capstone.cse.msu.edu/2024-08/projects/gm-ris/)
 ---
+
 
 
