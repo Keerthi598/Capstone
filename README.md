@@ -18,11 +18,14 @@ When the trigger is pressed, each LED turns on in sequence. The light sensor mea
 The prototype demonstrated strong real-world potential leading the client company to later invest over $10,000 in commercial-grade plastic scanners for deployment across multiple facilities.
 
 ---
+![Scanner](Scanner.jpg)
+
+![Scanner Demo](ScannerDemo.gif)
 
 ### Tech Stack
 
 - C/C++
-- wxWidgets
+- ESP IDF
 
 ---
 
@@ -38,4 +41,5 @@ This repository includes only the ESP32 firmware and components written by me.
 Other parts of the project (e.g., mobile or desktop apps) are not included here.
 
 ---
+
 
